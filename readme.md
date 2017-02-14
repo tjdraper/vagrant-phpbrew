@@ -24,3 +24,7 @@ To get started:
 The version of PHP after initial setup will default to 7.1. To switch PHP versions quickly on the fly, run `vagrant ssh`, then once SSHed into the box, use one of the commands shown to you when you log in (like `php55`) to switch which PHP version is being used.
 
 If you are doing any PHP command line work in the box, the quick swich commands also switch the command line version of PHP being used.
+
+## License
+
+Copyright 2017 [BuzzingPixel, LLC](https://buzzingpixel.com). Licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
