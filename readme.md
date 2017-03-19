@@ -6,6 +6,8 @@ This environment was created primarily for testing [ExpressionEngine](https://ex
 
 You will need to have [Vagrant](https://www.vagrantup.com/) and [VirtualBox](https://www.virtualbox.org/) installed.
 
+To use NFS on Windows (you want to use NFS, it will speed up page loads by about 800%), you will need to have the [Vagrant WinNFSd] plugin installed. Thankfully it's as simple as running `vagrant plugin install vagrant-winnfsd` from command prompt or PowerShell.
+
 ## Getting Started
 
 To get started:
